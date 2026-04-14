@@ -111,7 +111,7 @@ export function Hero() {
                 <Linkedin className="w-5 h-5 text-foreground group-hover:text-primary-foreground transition-colors" />
               </a>
               <a
-                href="mailto:developer.rohan06@gmail.com"
+                href="mailto:developer.nikita1011@gmail.com"
                 className="group flex items-center justify-center w-12 h-12 rounded-full bg-secondary hover:bg-primary transition-all duration-300"
               >
                 <Mail className="w-5 h-5 text-foreground group-hover:text-primary-foreground transition-colors" />
