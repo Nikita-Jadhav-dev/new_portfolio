@@ -144,7 +144,7 @@ export function Contact() {
               </div>
 
               <a
-                href="mailto:developer.rohan06@gmail.com"
+                href="mailto:developer.nikita1011@gmail.com"
                 className="mt-6 w-full flex items-center justify-center gap-2 px-6 py-4 bg-primary text-primary-foreground font-medium rounded-lg hover:bg-primary/90 transition-all duration-300 hover:shadow-lg hover:shadow-primary/20"
               >
                 <Send className="w-5 h-5" />
